@@ -1,6 +1,6 @@
 .tools/
 dist/
-sshdrop
-sshdrop.exe
+/sshdrop
+/sshdrop.exe
 *.test
 coverage.out
