@@ -1,0 +1,6 @@
+.tools/
+dist/
+sshdrop
+sshdrop.exe
+*.test
+coverage.out
